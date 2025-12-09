@@ -22,15 +22,6 @@ Hospitals are often unprepared due to no prior notification of incoming patients
 ✔ Dashboard & driver interface for real-time updates
 ✔ Reduces emergency response time and saves lives
 
-**🧭 System Workflow**
-
-1️⃣ GPS module/mobile app sends live location to server
-2️⃣ Server processes the incoming data
-3️⃣ Nearest hospitals identified
-4️⃣ Notification & ETA sent to hospital
-5️⃣ Fastest route suggested to ambulance driver
-6️⃣ Dashboard shows all statuses live
-
 **⭐ Key Features**
 
 Real-time Vehicle Tracking
