@@ -1,8 +1,8 @@
-**Ambulance Tracking & Smart Hospital Alert System**
+# Ambulance Tracking & Smart Hospital Alert System
 
 Emergency response delays can cost lives. This system ensures faster medical attention by enabling real-time ambulance tracking, smart route optimization, and automatic hospital notifications.
 
-**Problem Statement**
+# Problem Statement
 
 Ambulances face delays due to:
 
@@ -14,7 +14,7 @@ Difficulty in choosing the fastest route
 
 Hospitals are often unprepared due to no prior notification of incoming patients.
 
-**Proposed Solution**
+# Proposed Solution
 
 ✔ GPS-based live tracking of ambulances
 
@@ -26,7 +26,7 @@ Hospitals are often unprepared due to no prior notification of incoming patients
 
 ✔ Reduces emergency response time and saves lives
 
-**Key Features**
+# Key Features
 
 Real-time Vehicle Tracking
 
@@ -38,7 +38,7 @@ Central Monitoring Dashboard
 
 Faster & Reliable Emergency Communication
 
-**🧑‍💻 Tech Stack**
+# Tech Stack
 Layer	                   Technology
 
 Frontend	          HTML, CSS, JavaScript, Google Maps API
