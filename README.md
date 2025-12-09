@@ -40,7 +40,11 @@ Faster & Reliable Emergency Communication
 
 **🧑‍💻 Tech Stack**
 Layer	                   Technology
+
 Frontend	          HTML, CSS, JavaScript, Google Maps API
+
 Backend	            Node.js / Express
+
 Database	          SQLite / Firebase Realtime Database
+
 GPS Source        	Mobile GPS / IoT Support
