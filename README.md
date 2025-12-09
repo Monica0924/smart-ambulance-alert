@@ -17,9 +17,13 @@ Hospitals are often unprepared due to no prior notification of incoming patients
 **🎯 Proposed Solution**
 
 ✔ GPS-based live tracking of ambulances
+
 ✔ Automatically alerts nearest hospitals with ETA
+
 ✔ AI-based optimized route suggestions
+
 ✔ Dashboard & driver interface for real-time updates
+
 ✔ Reduces emergency response time and saves lives
 
 **⭐ Key Features**
